@@ -1,0 +1,43 @@
+body{
+    background-color: #212121;
+    color: #FFF;
+    height: 455px;
+    width: 320px;
+}
+.container{
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 460px;
+    background-color: rgb(108 104 104);
+    margin-left: 200px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 221px;
+
+}
+button{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: orange;
+    color: black;
+}
+#result{
+    color: black;
+    font-size: 30px;
+    padding-top: 10px;
+}
