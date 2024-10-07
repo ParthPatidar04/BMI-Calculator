@@ -3,13 +3,14 @@ body{
     color: #FFF;
     height: 455px;
     width: 320px;
+    margin: auto;
+    margin-top: 500px;
 }
 .container{
-    border: 2px solid white;
+    border: 2px solid orange;
     border-radius: 20px;
     height: 460px;
-    background-color: rgb(108 104 104);
-    margin-left: 200px;
+    background-color: rgb(108 104 104)
 }
 h1{
     text-align: center;
@@ -26,7 +27,7 @@ input{
 
 }
 button{
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     margin-top: 40px;
     border: 2px solid white;
@@ -38,6 +39,6 @@ button{
 }
 #result{
     color: black;
-    font-size: 30px;
-    padding-top: 10px;
+    font-size: 20px;
+    padding-top: 30px;
 }
